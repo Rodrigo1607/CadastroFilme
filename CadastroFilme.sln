@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.Web", "Cadas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.Api", "CadastroFilmes.Api\CadastroFilmes.Api.csproj", "{195DB52A-FC9B-47A6-802C-283718300DD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.Domain", "CadstroFilmes.Domain\CadastroFilmes.Domain.csproj", "{41C67A34-D1CD-48F3-BAA1-28DA71755B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.Infrastructure", "CadastroFilmes.Infraestrutura\CadastroFilmes.Infrastructure.csproj", "{24841F73-11C2-45B4-9198-1084804BE22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.Services", "CadastroFilmes.Services\CadastroFilmes.Services.csproj", "{2F32DBDF-857B-43E3-877B-5938468394C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFilmes.IoC", "CadastroFilmes.IoC\CadastroFilmes.IoC.csproj", "{240D6273-8AC5-43F5-B4D6-A753718BE04A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,22 @@ Global
 		{195DB52A-FC9B-47A6-802C-283718300DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{195DB52A-FC9B-47A6-802C-283718300DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{195DB52A-FC9B-47A6-802C-283718300DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C67A34-D1CD-48F3-BAA1-28DA71755B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C67A34-D1CD-48F3-BAA1-28DA71755B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C67A34-D1CD-48F3-BAA1-28DA71755B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C67A34-D1CD-48F3-BAA1-28DA71755B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24841F73-11C2-45B4-9198-1084804BE22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24841F73-11C2-45B4-9198-1084804BE22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24841F73-11C2-45B4-9198-1084804BE22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24841F73-11C2-45B4-9198-1084804BE22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F32DBDF-857B-43E3-877B-5938468394C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F32DBDF-857B-43E3-877B-5938468394C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F32DBDF-857B-43E3-877B-5938468394C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F32DBDF-857B-43E3-877B-5938468394C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240D6273-8AC5-43F5-B4D6-A753718BE04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240D6273-8AC5-43F5-B4D6-A753718BE04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240D6273-8AC5-43F5-B4D6-A753718BE04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240D6273-8AC5-43F5-B4D6-A753718BE04A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

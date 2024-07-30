@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroFilmes.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed6e9a912997c6b9cd9b98acc8f42811028bc1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroFilmes.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroFilmes.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
