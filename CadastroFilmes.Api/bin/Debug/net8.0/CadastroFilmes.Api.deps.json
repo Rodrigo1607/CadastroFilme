@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CadastroFilmes.Api/1.0.0": {
+        "runtime": {
+          "CadastroFilmes.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroFilmes.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

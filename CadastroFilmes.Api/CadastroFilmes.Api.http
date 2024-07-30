@@ -1,0 +1,6 @@
+@CadastroFilmes.Api_HostAddress = http://localhost:5118
+
+GET {{CadastroFilmes.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
